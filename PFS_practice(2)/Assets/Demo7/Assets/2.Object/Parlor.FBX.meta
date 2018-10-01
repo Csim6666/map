@@ -1,0 +1,108 @@
+fileFormatVersion: 2
+guid: d66598bf8f2314146b460a4c71028594
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    4300000: Three Sofa
+    4300002: Pillow03
+    4300004: Pillow05
+    4300006: Armchair
+    4300008: Pillow02
+    4300010: Tea table
+    4300012: Pillow
+    4300014: Pillow04
+    4300016: Pillow06
+    4300018: Pillow07
+    4300020: Pillow11
+    4300022: Pillow12
+    4300024: Pillow09
+    4300026: Pillow08
+    4300028: Pillow10
+    4300030: Armchair02
+    4300032: Three Sofa02
+    4300034: Bookcase
+    4300036: Living room lights
+    4300038: Wine cooler
+    4300040: Wine cooler02
+    4300042: Clock
+    4300044: Coffee table
+    4300046: Remote Control
+    4300048: Apple Laptop
+    4300050: lLiving room desk set
+    4300052: lLiving room desk set02
+    4300054: lLiving room desk set03
+    4300056: lLiving room desk set04
+    4300058: Living room wall
+    4300060: Living room wall02
+    4300062: Living room wall03
+    4300064: Fireplace
+    4300066: Shoe rack
+    4300068: Sony TV audio portfolio_2
+    4300070: Sony TV audio portfolio_3
+    4300072: Sony TV audio portfolio_4
+    4300074: Sony TV audio portfolio_6
+    4300076: Sony TV audio portfolio_1
+    4300078: Sony TV audio portfolio_3-1
+    4300080: Sony TV audio portfolio_5
+    4300082: Sony TV audio portfolio_2-1
+    4300084: Sony TV audio portfolio_007
+    4300086: Sony TV
+    4300088: mov
+  materials:
+    importMaterials: 1
+    materialName: 3
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

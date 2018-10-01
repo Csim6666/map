@@ -1,0 +1,107 @@
+fileFormatVersion: 2
+guid: b7dfefa6278ef284faf4338a1e1a63a3
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    4300000: Restaurant chandelier
+    4300002: Dining
+    4300004: Dining table
+    4300006: Dining02
+    4300008: Dining03
+    4300010: Dining04
+    4300012: Dining05
+    4300014: Dining06
+    4300016: Dining07
+    4300018: Dining08
+    4300020: Tableware06
+    4300022: Tableware07
+    4300024: Tableware08
+    4300026: Tableware09
+    4300028: Tableware010
+    4300030: Tableware011
+    4300032: Tableware012
+    4300034: Tableware013
+    4300036: Oven
+    4300038: Oven02
+    4300040: Knife combination
+    4300042: Kitchen chandelier
+    4300044: Tableware02
+    4300046: Tableware04
+    4300048: Beep pot02
+    4300050: Tableware
+    4300052: Refrigerator
+    4300054: Saucepan
+    4300056: Bar Stool02
+    4300058: Saucepan03
+    4300060: Bar Stool004
+    4300062: Bar Stool
+    4300064: Tableware05
+    4300066: Saucepan04
+    4300068: Beep pot
+    4300070: Kitchen shelf
+    4300072: Saucepan02
+    4300074: Bar Stool04
+    4300076: Leisure chair02
+    4300078: Leisure chair
+    4300080: Oven01
+    4300082: Bar Stool03
+    4300084: Bar Stool01
+    4300086: Beep pot01
+  materials:
+    importMaterials: 1
+    materialName: 3
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,553 @@
+fileFormatVersion: 2
+guid: 3f50a0fdda56af342b9662cd1d04cf57
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: 1 Balcony floor
+    100002: 1 Outerior walls
+    100004: 2 Restaurant ceiling
+    100006: 2 Restaurant floor
+    100008: 2 Restaurant Wall  lamp02
+    100010: 2 Restaurant walls
+    100012: 3 Cupboard
+    100014: 3 Kitchen ceiling
+    100016: 3 Kitchen floor
+    100018: 3 Kitchen walls(Safflower Marble)
+    100020: 3 Kitchen window
+    100022: 3 Restaurant Wall  lamp01
+    100024: 4 Air conditioner
+    100026: 4 Door
+    100028: 4 Living room carpet
+    100030: 4 Living room ceiling
+    100032: 4 Living room wall
+    100034: 4 Living room Wall lamp01
+    100036: 4 Living room Wall lamp02
+    100038: 4 Living room Wall lamp03
+    100040: 4 The living room floor
+    100042: 4 Threshold(White)-(Threshold-n)01
+    100044: 4 Threshold(Wood01)-(Threshold-n)01
+    100046: 4 Threshold(Wood01)-(Threshold-n)02
+    100048: 4 Threshold(Wood02)-(Threshold-n)
+    100050: 4 Video pedestal
+    100052: 4 Windows01
+    100054: 4 Windows02
+    100056: 5  Mirror
+    100058: 5 Bathroom Lights
+    100060: 5 Hall bathroom ceiling
+    100062: 5 Hall bathroom floor
+    100064: 5 Hall toilet wall
+    100066: 5 Toilet03
+    100068: 5 Towel rack03
+    100070: 5 Washbasin
+    100072: 6 Bathroom Lights02
+    100074: 6 Bathtub02
+    100076: 6 Bedroom bathroom floor
+    100078: 6 Bedroom mirror
+    100080: 6 Bedroom washbasin
+    100082: 6 Bedroom, bathroom ceiling
+    100084: 6 Bedroom, bathroom walls
+    100086: 6 Toilet02
+    100088: 6 Towel rack02
+    100090: 6 Towel rack02 1
+    100092: 7 Bathroom Lights03
+    100094: 7 Bathroom windows
+    100096: 7 Bathtub
+    100098: 7 Master bedroom bathroom ceiling
+    100100: 7 Master bedroom bathroom floor
+    100102: 7 Master bedroom bathroom walls
+    100104: 7 Master bedroom mirror
+    100106: 7 Master bedroom sink
+    100108: 7 Toilet
+    100110: 7 Towel rack
+    100112: 7 Towel rack 1
+    100114: 8 Air conditioner03
+    100116: 8 Bedroom windows
+    100118: 8 Bedroom windows02
+    100120: 8 Floor master bedroom
+    100122: 8 Master bedroom carpet
+    100124: 8 Master bedroom ceiling
+    100126: 8 Master bedroom Wall lamp
+    100128: 8 Master bedroom walls
+    100130: 8 Old wardrobe03
+    100132: 8 Old wardrobe04
+    100134: 8 Threshold(White)-(Threshold-n)02
+    100136: 9 Air conditioner02
+    100138: 9 Bedroom carpet
+    100140: 9 Bedroom ceiling
+    100142: 9 Bedroom floor
+    100144: 9 Bedroom wall
+    100146: 9 Bedroom Wall lamp
+    100148: 9 Bedroom windows door
+    100150: 9 Old wardrobe01
+    100152: 9 Old wardrobe02
+    100154: 9 Threshold(White)-(Threshold-n)03
+    100156: Group001
+    100158: Group002
+    100160: Group003
+    100162: Group004
+    100164: Group005
+    100166: Group006
+    100168: Group007
+    100170: Group008
+    100172: Group009
+    100174: //RootNode
+    400000: 1 Balcony floor
+    400002: 1 Outerior walls
+    400004: 2 Restaurant ceiling
+    400006: 2 Restaurant floor
+    400008: 2 Restaurant Wall  lamp02
+    400010: 2 Restaurant walls
+    400012: 3 Cupboard
+    400014: 3 Kitchen ceiling
+    400016: 3 Kitchen floor
+    400018: 3 Kitchen walls(Safflower Marble)
+    400020: 3 Kitchen window
+    400022: 3 Restaurant Wall  lamp01
+    400024: 4 Air conditioner
+    400026: 4 Door
+    400028: 4 Living room carpet
+    400030: 4 Living room ceiling
+    400032: 4 Living room wall
+    400034: 4 Living room Wall lamp01
+    400036: 4 Living room Wall lamp02
+    400038: 4 Living room Wall lamp03
+    400040: 4 The living room floor
+    400042: 4 Threshold(White)-(Threshold-n)01
+    400044: 4 Threshold(Wood01)-(Threshold-n)01
+    400046: 4 Threshold(Wood01)-(Threshold-n)02
+    400048: 4 Threshold(Wood02)-(Threshold-n)
+    400050: 4 Video pedestal
+    400052: 4 Windows01
+    400054: 4 Windows02
+    400056: 5  Mirror
+    400058: 5 Bathroom Lights
+    400060: 5 Hall bathroom ceiling
+    400062: 5 Hall bathroom floor
+    400064: 5 Hall toilet wall
+    400066: 5 Toilet03
+    400068: 5 Towel rack03
+    400070: 5 Washbasin
+    400072: 6 Bathroom Lights02
+    400074: 6 Bathtub02
+    400076: 6 Bedroom bathroom floor
+    400078: 6 Bedroom mirror
+    400080: 6 Bedroom washbasin
+    400082: 6 Bedroom, bathroom ceiling
+    400084: 6 Bedroom, bathroom walls
+    400086: 6 Toilet02
+    400088: 6 Towel rack02
+    400090: 6 Towel rack02 1
+    400092: 7 Bathroom Lights03
+    400094: 7 Bathroom windows
+    400096: 7 Bathtub
+    400098: 7 Master bedroom bathroom ceiling
+    400100: 7 Master bedroom bathroom floor
+    400102: 7 Master bedroom bathroom walls
+    400104: 7 Master bedroom mirror
+    400106: 7 Master bedroom sink
+    400108: 7 Toilet
+    400110: 7 Towel rack
+    400112: 7 Towel rack 1
+    400114: 8 Air conditioner03
+    400116: 8 Bedroom windows
+    400118: 8 Bedroom windows02
+    400120: 8 Floor master bedroom
+    400122: 8 Master bedroom carpet
+    400124: 8 Master bedroom ceiling
+    400126: 8 Master bedroom Wall lamp
+    400128: 8 Master bedroom walls
+    400130: 8 Old wardrobe03
+    400132: 8 Old wardrobe04
+    400134: 8 Threshold(White)-(Threshold-n)02
+    400136: 9 Air conditioner02
+    400138: 9 Bedroom carpet
+    400140: 9 Bedroom ceiling
+    400142: 9 Bedroom floor
+    400144: 9 Bedroom wall
+    400146: 9 Bedroom Wall lamp
+    400148: 9 Bedroom windows door
+    400150: 9 Old wardrobe01
+    400152: 9 Old wardrobe02
+    400154: 9 Threshold(White)-(Threshold-n)03
+    400156: Group001
+    400158: Group002
+    400160: Group003
+    400162: Group004
+    400164: Group005
+    400166: Group006
+    400168: Group007
+    400170: Group008
+    400172: Group009
+    400174: //RootNode
+    2300000: 1 Balcony floor
+    2300002: 1 Outerior walls
+    2300004: 2 Restaurant ceiling
+    2300006: 2 Restaurant floor
+    2300008: 2 Restaurant Wall  lamp02
+    2300010: 2 Restaurant walls
+    2300012: 3 Cupboard
+    2300014: 3 Kitchen ceiling
+    2300016: 3 Kitchen floor
+    2300018: 3 Kitchen walls(Safflower Marble)
+    2300020: 3 Kitchen window
+    2300022: 3 Restaurant Wall  lamp01
+    2300024: 4 Air conditioner
+    2300026: 4 Door
+    2300028: 4 Living room carpet
+    2300030: 4 Living room ceiling
+    2300032: 4 Living room wall
+    2300034: 4 Living room Wall lamp01
+    2300036: 4 Living room Wall lamp02
+    2300038: 4 Living room Wall lamp03
+    2300040: 4 The living room floor
+    2300042: 4 Threshold(White)-(Threshold-n)01
+    2300044: 4 Threshold(Wood01)-(Threshold-n)01
+    2300046: 4 Threshold(Wood01)-(Threshold-n)02
+    2300048: 4 Threshold(Wood02)-(Threshold-n)
+    2300050: 4 Video pedestal
+    2300052: 4 Windows01
+    2300054: 4 Windows02
+    2300056: 5  Mirror
+    2300058: 5 Bathroom Lights
+    2300060: 5 Hall bathroom ceiling
+    2300062: 5 Hall bathroom floor
+    2300064: 5 Hall toilet wall
+    2300066: 5 Toilet03
+    2300068: 5 Towel rack03
+    2300070: 5 Washbasin
+    2300072: 6 Bathroom Lights02
+    2300074: 6 Bathtub02
+    2300076: 6 Bedroom bathroom floor
+    2300078: 6 Bedroom mirror
+    2300080: 6 Bedroom washbasin
+    2300082: 6 Bedroom, bathroom ceiling
+    2300084: 6 Bedroom, bathroom walls
+    2300086: 6 Toilet02
+    2300088: 6 Towel rack02
+    2300090: 6 Towel rack02 1
+    2300092: 7 Bathroom Lights03
+    2300094: 7 Bathroom windows
+    2300096: 7 Bathtub
+    2300098: 7 Master bedroom bathroom ceiling
+    2300100: 7 Master bedroom bathroom floor
+    2300102: 7 Master bedroom bathroom walls
+    2300104: 7 Master bedroom mirror
+    2300106: 7 Master bedroom sink
+    2300108: 7 Toilet
+    2300110: 7 Towel rack
+    2300112: 7 Towel rack 1
+    2300114: 8 Air conditioner03
+    2300116: 8 Bedroom windows
+    2300118: 8 Bedroom windows02
+    2300120: 8 Floor master bedroom
+    2300122: 8 Master bedroom carpet
+    2300124: 8 Master bedroom ceiling
+    2300126: 8 Master bedroom Wall lamp
+    2300128: 8 Master bedroom walls
+    2300130: 8 Old wardrobe03
+    2300132: 8 Old wardrobe04
+    2300134: 8 Threshold(White)-(Threshold-n)02
+    2300136: 9 Air conditioner02
+    2300138: 9 Bedroom carpet
+    2300140: 9 Bedroom ceiling
+    2300142: 9 Bedroom floor
+    2300144: 9 Bedroom wall
+    2300146: 9 Bedroom Wall lamp
+    2300148: 9 Bedroom windows door
+    2300150: 9 Old wardrobe01
+    2300152: 9 Old wardrobe02
+    2300154: 9 Threshold(White)-(Threshold-n)03
+    3300000: 1 Balcony floor
+    3300002: 1 Outerior walls
+    3300004: 2 Restaurant ceiling
+    3300006: 2 Restaurant floor
+    3300008: 2 Restaurant Wall  lamp02
+    3300010: 2 Restaurant walls
+    3300012: 3 Cupboard
+    3300014: 3 Kitchen ceiling
+    3300016: 3 Kitchen floor
+    3300018: 3 Kitchen walls(Safflower Marble)
+    3300020: 3 Kitchen window
+    3300022: 3 Restaurant Wall  lamp01
+    3300024: 4 Air conditioner
+    3300026: 4 Door
+    3300028: 4 Living room carpet
+    3300030: 4 Living room ceiling
+    3300032: 4 Living room wall
+    3300034: 4 Living room Wall lamp01
+    3300036: 4 Living room Wall lamp02
+    3300038: 4 Living room Wall lamp03
+    3300040: 4 The living room floor
+    3300042: 4 Threshold(White)-(Threshold-n)01
+    3300044: 4 Threshold(Wood01)-(Threshold-n)01
+    3300046: 4 Threshold(Wood01)-(Threshold-n)02
+    3300048: 4 Threshold(Wood02)-(Threshold-n)
+    3300050: 4 Video pedestal
+    3300052: 4 Windows01
+    3300054: 4 Windows02
+    3300056: 5  Mirror
+    3300058: 5 Bathroom Lights
+    3300060: 5 Hall bathroom ceiling
+    3300062: 5 Hall bathroom floor
+    3300064: 5 Hall toilet wall
+    3300066: 5 Toilet03
+    3300068: 5 Towel rack03
+    3300070: 5 Washbasin
+    3300072: 6 Bathroom Lights02
+    3300074: 6 Bathtub02
+    3300076: 6 Bedroom bathroom floor
+    3300078: 6 Bedroom mirror
+    3300080: 6 Bedroom washbasin
+    3300082: 6 Bedroom, bathroom ceiling
+    3300084: 6 Bedroom, bathroom walls
+    3300086: 6 Toilet02
+    3300088: 6 Towel rack02
+    3300090: 6 Towel rack02 1
+    3300092: 7 Bathroom Lights03
+    3300094: 7 Bathroom windows
+    3300096: 7 Bathtub
+    3300098: 7 Master bedroom bathroom ceiling
+    3300100: 7 Master bedroom bathroom floor
+    3300102: 7 Master bedroom bathroom walls
+    3300104: 7 Master bedroom mirror
+    3300106: 7 Master bedroom sink
+    3300108: 7 Toilet
+    3300110: 7 Towel rack
+    3300112: 7 Towel rack 1
+    3300114: 8 Air conditioner03
+    3300116: 8 Bedroom windows
+    3300118: 8 Bedroom windows02
+    3300120: 8 Floor master bedroom
+    3300122: 8 Master bedroom carpet
+    3300124: 8 Master bedroom ceiling
+    3300126: 8 Master bedroom Wall lamp
+    3300128: 8 Master bedroom walls
+    3300130: 8 Old wardrobe03
+    3300132: 8 Old wardrobe04
+    3300134: 8 Threshold(White)-(Threshold-n)02
+    3300136: 9 Air conditioner02
+    3300138: 9 Bedroom carpet
+    3300140: 9 Bedroom ceiling
+    3300142: 9 Bedroom floor
+    3300144: 9 Bedroom wall
+    3300146: 9 Bedroom Wall lamp
+    3300148: 9 Bedroom windows door
+    3300150: 9 Old wardrobe01
+    3300152: 9 Old wardrobe02
+    3300154: 9 Threshold(White)-(Threshold-n)03
+    4300000: 1 Outerior walls
+    4300002: 1 Balcony floor
+    4300004: 2 Restaurant ceiling
+    4300006: 2 Restaurant floor
+    4300008: 2 Restaurant Wall  lamp02
+    4300010: 2 Restaurant walls
+    4300012: 3 Cupboard
+    4300014: 3 Kitchen ceiling
+    4300016: 3 Kitchen floor
+    4300018: 3 Kitchen walls(Safflower Marble)
+    4300020: 3 Kitchen window
+    4300022: 3 Restaurant Wall  lamp01
+    4300024: 4 Air conditioner
+    4300026: 4 Bedroom washbasin
+    4300028: 4 Door
+    4300030: 4 Living room carpet
+    4300032: 4 Living room ceiling
+    4300034: 4 Living room wall
+    4300036: 4 Living room Wall lamp01
+    4300038: 4 Living room Wall lamp02
+    4300040: 4 Living room Wall lamp03
+    4300042: 4 The living room floor
+    4300044: 4 Threshold(White)-(Threshold-n)01
+    4300046: 4 Threshold(Wood01)-(Threshold-n)01
+    4300048: 4 Threshold(Wood01)-(Threshold-n)02
+    4300050: 4 Threshold(Wood02)-(Threshold-n)
+    4300052: 4 Video pedestal
+    4300054: 4 Windows01
+    4300056: 4 Windows02
+    4300058: 5  Mirror
+    4300060: 5 Bathroom Lights
+    4300062: 5 Hall bathroom ceiling
+    4300064: 5 Hall bathroom floor
+    4300066: 5 Hall toilet wall
+    4300068: 5 Toilet03
+    4300070: 5 Towel rack03
+    4300072: 5 Washbasin
+    4300074: 6 Bathroom Lights02
+    4300076: 6 Bathtub02
+    4300078: 6 Bedroom bathroom floor
+    4300080: 6 Bedroom mirror
+    4300082: 6 Bedroom, bathroom ceiling
+    4300084: 6 Bedroom, bathroom walls
+    4300086: 6 Toilet02
+    4300088: 6 Towel rack02
+    4300090: 6 Towel rack02
+    4300092: 7 Bathroom Lights03
+    4300094: 7 Bathroom windows
+    4300096: 7 Bathtub
+    4300098: 7 Master bedroom bathroom ceiling
+    4300100: 7 Master bedroom bathroom floor
+    4300102: 7 Master bedroom bathroom walls
+    4300104: 7 Master bedroom mirror
+    4300106: 7 Master bedroom sink
+    4300108: 7 Toilet
+    4300110: 7 Towel rack
+    4300112: 7 Towel rack
+    4300114: 8 Air conditioner03
+    4300116: 8 Bedroom windows
+    4300118: 8 Bedroom windows02
+    4300120: 8 Floor master bedroom
+    4300122: 8 Master bedroom carpet
+    4300124: 8 Master bedroom ceiling
+    4300126: 8 Master bedroom Wall lamp
+    4300128: 8 Master bedroom walls
+    4300130: 8 Old wardrobe03
+    4300132: 8 Old wardrobe04
+    4300134: 8 Threshold(White)-(Threshold-n)02
+    4300136: 9 Threshold(White)-(Threshold-n)03
+    4300138: 9 Bedroom wall
+    4300140: 9 Bedroom floor
+    4300142: 9 Bedroom ceiling
+    4300144: 9 Bedroom carpet
+    4300146: 9 Bedroom windows door
+    4300148: 9 Bedroom Wall lamp
+    4300150: 9 Air conditioner02
+    4300152: 9 Old wardrobe01
+    4300154: 9 Old wardrobe02
+    4300156: 6 Bedroom washbasin
+    6400000: 1 Balcony floor
+    6400002: 1 Outerior walls
+    6400004: 2 Restaurant ceiling
+    6400006: 2 Restaurant floor
+    6400008: 2 Restaurant Wall  lamp02
+    6400010: 2 Restaurant walls
+    6400012: 3 Cupboard
+    6400014: 3 Kitchen ceiling
+    6400016: 3 Kitchen floor
+    6400018: 3 Kitchen walls(Safflower Marble)
+    6400020: 3 Kitchen window
+    6400022: 3 Restaurant Wall  lamp01
+    6400024: 4 Air conditioner
+    6400026: 4 Door
+    6400028: 4 Living room carpet
+    6400030: 4 Living room ceiling
+    6400032: 4 Living room wall
+    6400034: 4 Living room Wall lamp01
+    6400036: 4 Living room Wall lamp02
+    6400038: 4 Living room Wall lamp03
+    6400040: 4 The living room floor
+    6400042: 4 Threshold(White)-(Threshold-n)01
+    6400044: 4 Threshold(Wood01)-(Threshold-n)01
+    6400046: 4 Threshold(Wood01)-(Threshold-n)02
+    6400048: 4 Threshold(Wood02)-(Threshold-n)
+    6400050: 4 Video pedestal
+    6400052: 4 Windows01
+    6400054: 4 Windows02
+    6400056: 5  Mirror
+    6400058: 5 Bathroom Lights
+    6400060: 5 Hall bathroom ceiling
+    6400062: 5 Hall bathroom floor
+    6400064: 5 Hall toilet wall
+    6400066: 5 Toilet03
+    6400068: 5 Towel rack03
+    6400070: 5 Washbasin
+    6400072: 6 Bathroom Lights02
+    6400074: 6 Bathtub02
+    6400076: 6 Bedroom bathroom floor
+    6400078: 6 Bedroom mirror
+    6400080: 6 Bedroom washbasin
+    6400082: 6 Bedroom, bathroom ceiling
+    6400084: 6 Bedroom, bathroom walls
+    6400086: 6 Toilet02
+    6400088: 6 Towel rack02
+    6400090: 6 Towel rack02 1
+    6400092: 7 Bathroom Lights03
+    6400094: 7 Bathroom windows
+    6400096: 7 Bathtub
+    6400098: 7 Master bedroom bathroom ceiling
+    6400100: 7 Master bedroom bathroom floor
+    6400102: 7 Master bedroom bathroom walls
+    6400104: 7 Master bedroom mirror
+    6400106: 7 Master bedroom sink
+    6400108: 7 Toilet
+    6400110: 7 Towel rack
+    6400112: 7 Towel rack 1
+    6400114: 8 Air conditioner03
+    6400116: 8 Bedroom windows
+    6400118: 8 Bedroom windows02
+    6400120: 8 Floor master bedroom
+    6400122: 8 Master bedroom carpet
+    6400124: 8 Master bedroom ceiling
+    6400126: 8 Master bedroom Wall lamp
+    6400128: 8 Master bedroom walls
+    6400130: 8 Old wardrobe03
+    6400132: 8 Old wardrobe04
+    6400134: 8 Threshold(White)-(Threshold-n)02
+    6400136: 9 Air conditioner02
+    6400138: 9 Bedroom carpet
+    6400140: 9 Bedroom ceiling
+    6400142: 9 Bedroom floor
+    6400144: 9 Bedroom wall
+    6400146: 9 Bedroom Wall lamp
+    6400148: 9 Bedroom windows door
+    6400150: 9 Old wardrobe01
+    6400152: 9 Old wardrobe02
+    6400154: 9 Threshold(White)-(Threshold-n)03
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 3
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

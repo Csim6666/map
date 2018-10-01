@@ -1,0 +1,207 @@
+fileFormatVersion: 2
+guid: 5f1dec60788b4474ba500041b0bf0892
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    4300000: Box03
+    4300002: Box04
+    4300004: Box05
+    4300006: Box06
+    4300008: Box07
+    4300010: Box08
+    4300012: Box10
+    4300014: Box11
+    4300016: Box12
+    4300018: Cylinder01
+    4300020: Cylinder03
+    4300022: Cylinder04
+    4300024: Cylinder05
+    4300026: Cylinder12
+    4300028: Cylinder13
+    4300030: Cylinder14
+    4300032: Cylinder15
+    4300034: Cylinder16
+    4300036: Sphere22
+    4300038: Torus02
+    4300040: Torus06
+    4300042: Loft01
+    4300044: Cylinder17
+    4300046: Rectangle02
+    4300048: Rectangle04
+    4300050: Torus03
+    4300052: Sphere01
+    4300054: Sphere02
+    4300056: Sphere03
+    4300058: Sphere04
+    4300060: Sphere05
+    4300062: Sphere06
+    4300064: Sphere07
+    4300066: Sphere08
+    4300068: Plane01
+    4300070: Torus01
+    4300072: Sphere09
+    4300074: Sphere10
+    4300076: Box15
+    4300078: Box16
+    4300080: Sphere11
+    4300082: Torus04
+    4300084: Box14
+    4300086: Cylinder02
+    4300088: Cylinder11
+    4300090: Sphere21
+    4300092: Sphere20
+    4300094: Cylinder10
+    4300096: Cylinder09
+    4300098: Sphere19
+    4300100: Sphere16
+    4300102: Cylinder06
+    4300104: Sphere17
+    4300106: Cylinder07
+    4300108: Sphere18
+    4300110: Cylinder08
+    4300112: Box017
+    4300114: Cone001
+    4300116: Box018
+    4300118: Rectangle03
+    4300120: Box019
+    4300122: Cylinder018
+    4300124: Rectangle01
+    4300126: Master_bedroom_shower_door
+    4300128: Head
+    4300130: Shower room door
+  materials:
+    importMaterials: 1
+    materialName: 3
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: idle
+      takeName: 
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: open
+      takeName: 
+      firstFrame: 1
+      lastFrame: 45
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: down
+      takeName: 
+      firstFrame: 46
+      lastFrame: 90
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
