@@ -688,6 +688,7 @@ GameObject:
   - component: {fileID: 143734368874077796}
   - component: {fileID: 114694199630931188}
   - component: {fileID: 114239780582670044}
+  - component: {fileID: 65044059984380954}
   m_Layer: 0
   m_Name: robot
   m_TagString: Untagged
@@ -1289,7 +1290,7 @@ Transform:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1415654267672712}
-  m_LocalRotation: {x: 0.442733, y: -0.5540212, z: 0.45186847, w: 0.54116803}
+  m_LocalRotation: {x: 0.44273302, y: -0.55402124, z: 0.4518685, w: 0.5411681}
   m_LocalPosition: {x: -0.27776778, y: 0.014500279, z: -0.22954689}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
@@ -1333,7 +1334,6 @@ MeshRenderer:
   m_Enabled: 1
   m_CastShadows: 1
   m_ReceiveShadows: 1
-  m_DynamicOccludee: 1
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
@@ -1349,7 +1349,6 @@ MeshRenderer:
   m_PreserveUVs: 0
   m_IgnoreNormalsForChartDetection: 0
   m_ImportantGI: 0
-  m_StitchLightmapSeams: 0
   m_SelectedEditorRenderState: 3
   m_MinimumChartSize: 4
   m_AutoUVMaxDistance: 0.5
@@ -1365,6 +1364,18 @@ MeshFilter:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1787427972873208}
   m_Mesh: {fileID: 4300002, guid: 82fbe454bd119c44d0009d298d76c639, type: 3}
+--- !u!65 &65044059984380954
+BoxCollider:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1999813860846432}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1, y: 1, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!111 &111434223596068778
 Animation:
   m_ObjectHideFlags: 1
@@ -1456,7 +1467,6 @@ SkinnedMeshRenderer:
   m_Enabled: 1
   m_CastShadows: 1
   m_ReceiveShadows: 1
-  m_DynamicOccludee: 1
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
@@ -1472,7 +1482,6 @@ SkinnedMeshRenderer:
   m_PreserveUVs: 0
   m_IgnoreNormalsForChartDetection: 0
   m_ImportantGI: 0
-  m_StitchLightmapSeams: 0
   m_SelectedEditorRenderState: 3
   m_MinimumChartSize: 4
   m_AutoUVMaxDistance: 0.5
