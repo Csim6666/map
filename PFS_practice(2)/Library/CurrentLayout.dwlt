@@ -20,7 +20,7 @@ MonoBehaviour:
   m_ShowMode: 4
   m_Title: 
   m_RootView: {fileID: 2}
-  m_MinSize: {x: 950, y: 542}
+  m_MinSize: {x: 950, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &2
 MonoBehaviour:
@@ -43,7 +43,7 @@ MonoBehaviour:
     y: 0
     width: 1920
     height: 997
-  m_MinSize: {x: 950, y: 542}
+  m_MinSize: {x: 950, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &3
 MonoBehaviour:
@@ -90,7 +90,7 @@ MonoBehaviour:
   m_MinSize: {x: 713, y: 492}
   m_MaxSize: {x: 18008, y: 14042}
   vertical: 0
-  controlID: 99
+  controlID: 11
 --- !u!114 &5
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -342,7 +342,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000a2270000d8270000ce2b0000042f0000aa2f0000da2f000028340000f03400003e380000103b00006e3b00008a420000604300007646000066490000664b00009e4b0000584d0000125000009c5000000e550000385500001a5600005a570000
+    m_ExpandedIDs: 00000000a2270000d8270000ce2b0000042f0000aa2f0000da2f000028340000f03400003e380000103b00006e3b00008a42000060430000764600006649000084490000664b00009e4b0000584d0000125000009c5000000e550000385500001a5600005a570000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -369,7 +369,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 1
+    m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: 0aec000028390000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -466,21 +466,21 @@ MonoBehaviour:
     width: 245
     height: 926
   m_TreeViewState:
-    scrollPos: {x: 0, y: 3}
-    m_SelectedIDs: 
-    m_LastClickedID: 0
-    m_ExpandedIDs: 38d3ffff1afcffff00000000385a0000
+    scrollPos: {x: 0, y: 0}
+    m_SelectedIDs: 7c590000
+    m_LastClickedID: 22908
+    m_ExpandedIDs: 40bfffff88d6ffff1afcffff00000000a45800007c590000085a0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: robot1
-      m_OriginalName: robot1
+      m_Name: FirstPersonCharacter
+      m_OriginalName: FirstPersonCharacter
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: -10850
+      m_UserData: -10616
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
       m_OriginalEventType: 0
@@ -628,14 +628,14 @@ MonoBehaviour:
     width: 1275
     height: 534
   m_SceneLighting: 1
-  lastFramingTime: 115.83070274499026
+  lastFramingTime: 63.50915590715598
   m_2DMode: 0
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 1449.3057, y: 2.7361794, z: 1544.5741}
+    m_Target: {x: 1443.57, y: 2.79, z: 1618.4}
     speed: 2
-    m_Value: {x: 1449.3057, y: 2.7361794, z: 1544.5741}
+    m_Value: {x: 1443.57, y: 2.79, z: 1618.4}
   m_RenderMode: 0
   m_ValidateTrueMetals: 0
   m_SceneViewState:
@@ -660,11 +660,11 @@ MonoBehaviour:
   m_Rotation:
     m_Target: {x: 0.02269724, y: 0.92535454, z: -0.37423784, w: 0.056123614}
     speed: 2
-    m_Value: {x: 0.02269724, y: 0.92535454, z: -0.37423784, w: 0.056123614}
+    m_Value: {x: 0.02269724, y: 0.9253546, z: -0.37423784, w: 0.056123618}
   m_Size:
-    m_Target: 24.313307
+    m_Target: 2.7026355
     speed: 2
-    m_Value: 24.313307
+    m_Value: 2.7026355
   m_Ortho:
     m_Target: 0
     speed: 2
