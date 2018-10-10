@@ -1,8 +1,70 @@
 fileFormatVersion: 2
 guid: 30af0a6dd98f06744a4e86ed5b684724
 ModelImporter:
-  serializedVersion: 18
+  serializedVersion: 23
   fileIDToRecycleName:
+    100000: Apple Computer
+    100002: Bedside cabinet
+    100004: Bedside cabinet02
+    100006: Chandelier
+    100008: Coat rack
+    100010: Computer Chairs
+    100012: Computer Desk
+    100014: Curtain
+    100016: Curtain02
+    100018: Dressing table
+    100020: Floor lamp
+    100022: Floor mats
+    100024: Keyboard
+    100026: Master bed
+    100028: //RootNode
+    100030: Panasonic Brand TV
+    400000: Apple Computer
+    400002: Bedside cabinet
+    400004: Bedside cabinet02
+    400006: Chandelier
+    400008: Coat rack
+    400010: Computer Chairs
+    400012: Computer Desk
+    400014: Curtain
+    400016: Curtain02
+    400018: Dressing table
+    400020: Floor lamp
+    400022: Floor mats
+    400024: Keyboard
+    400026: Master bed
+    400028: //RootNode
+    400030: Panasonic Brand TV
+    2300000: Apple Computer
+    2300002: Bedside cabinet
+    2300004: Bedside cabinet02
+    2300006: Chandelier
+    2300008: Coat rack
+    2300010: Computer Chairs
+    2300012: Computer Desk
+    2300014: Curtain
+    2300016: Curtain02
+    2300018: Dressing table
+    2300020: Floor lamp
+    2300022: Floor mats
+    2300024: Keyboard
+    2300026: Master bed
+    2300028: Panasonic Brand TV
+    3300000: Apple Computer
+    3300002: Bedside cabinet
+    3300004: Bedside cabinet02
+    3300006: Chandelier
+    3300008: Coat rack
+    3300010: Computer Chairs
+    3300012: Computer Desk
+    3300014: Curtain
+    3300016: Curtain02
+    3300018: Dressing table
+    3300020: Floor lamp
+    3300022: Floor mats
+    3300024: Keyboard
+    3300026: Master bed
+    3300028: Panasonic Brand TV
     4300000: Panasonic Brand TV
     4300002: Master bed
     4300004: Bedside cabinet
@@ -22,60 +84,246 @@ ModelImporter:
     4300032: Air conditioner
     4300034: Wall lamp
     4300036: Floor mats
+    6400000: Apple Computer
+    6400002: Bedside cabinet
+    6400004: Bedside cabinet02
+    6400006: Chandelier
+    6400008: Coat rack
+    6400010: Computer Chairs
+    6400012: Computer Desk
+    6400014: Curtain
+    6400016: Curtain02
+    6400018: Dressing table
+    6400020: Floor lamp
+    6400022: Floor mats
+    6400024: Keyboard
+    6400026: Master bed
+    6400028: Panasonic Brand TV
+    11100000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Apple Computer(Apple Computer01)
+    second: {fileID: 2100000, guid: bf485d41f499def42ab64b8f568ec450, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Apple Computer(Apple Computer02)
+    second: {fileID: 2100000, guid: c944769c095ec274e94dfa91c27b7711, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bedside cabinet(Gold Metal)
+    second: {fileID: 2100000, guid: a33684691c6088b4eb0b814d090427b0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Coat rack(Wood03)
+    second: {fileID: 2100000, guid: cdc08109936b0454c94527038cdb293a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Computer Chairs(Fabric04)
+    second: {fileID: 2100000, guid: 4916d913f96b8544cb702a54d2020c66, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Computer Chairs(Wood03)
+    second: {fileID: 2100000, guid: f194c847566157b4fba323fd9916e968, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Computer Desk(Wood04)
+    second: {fileID: 2100000, guid: 07423c0c86ad272459fac27f4c2f1dc5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Curtain(Curtain01)
+    second: {fileID: 2100000, guid: 68a20dfa291f75843b3d8157349dff37, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Curtain(Curtain02)
+    second: {fileID: 2100000, guid: 5329cde2412f87b4ba3f8975e50ca909, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Curtain(Curtain03)
+    second: {fileID: 2100000, guid: 84916932d2415c141ab533bf4bd4d801, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Curtain(Curtain04)
+    second: {fileID: 2100000, guid: ee0f6b04bb162244ca28a1661389c0d2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Curtain(Curtain05)
+    second: {fileID: 2100000, guid: c5d231ab9bbab054dab722fe843f031e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Curtain(Fabric02)
+    second: {fileID: 2100000, guid: 8dd62288b2ff06549bbdca18f170a63d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Curtain(Fabric07)
+    second: {fileID: 2100000, guid: c783ceeda393b1d40b1e868921d9e97c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dressing table(Camera)
+    second: {fileID: 2100000, guid: 11a6ca20d5e2dd04e8ff7c505f56fc75, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dressing table(Fabric08)
+    second: {fileID: 2100000, guid: 4b3342e099c364e42becc1e7bf2e3eb6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dressing table(Wood05)
+    second: {fileID: 2100000, guid: 5127417db1e692e4a8a1c81c0112cfca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Floor mats(Fabric04)
+    second: {fileID: 2100000, guid: 3678993446787df4c85319bc64c6e79a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Floor mats(Wood05)
+    second: {fileID: 2100000, guid: 876d24fe894a65548b1b3bf95781c9be, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Keyboard(Keyboard)
+    second: {fileID: 2100000, guid: c143123caeac48a4bbaf1ec32853a086, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Master bed(Gold Metal)
+    second: {fileID: 2100000, guid: ef36ed2356a93894a87448284d4d0d68, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Master bed(Master bed01)
+    second: {fileID: 2100000, guid: ebb410268d567ac419ddb72ee0073250, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Master bed(Master bed02)
+    second: {fileID: 2100000, guid: cd592a21373b3b046a9c4a9c4bef68a7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Master bed(Master bed08)
+    second: {fileID: 2100000, guid: 49fbde2f8f937c347b76de443b175785, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Master bed(Master bed09)
+    second: {fileID: 2100000, guid: f444605a7b3182147961550a6b822696, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Panasonic Brand TV(Book cover01)
+    second: {fileID: 2100000, guid: a40d48e5ab4d1e8418b6fef9267dc00b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Panasonic Brand TV(Panasonic Brand TV01)
+    second: {fileID: 2100000, guid: e927bd34c53d35f438e582322c464188, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Panasonic Brand TV(Panasonic Brand TV03)
+    second: {fileID: 2100000, guid: 34af70cdbe7d77047949f3cb25524dff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Panasonic Brand TV(Panasonic Brand TV04)
+    second: {fileID: 2100000, guid: 705ee6ba0a3dce844893bd0db4242552, type: 2}
   materials:
     importMaterials: 1
     materialName: 3
     materialSearch: 1
+    materialLocation: 0
   animations:
     legacyGenerateAnimations: 4
     bakeSimulation: 0
+    resampleCurves: 1
     optimizeGameObjects: 0
     motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
     animationCompression: 1
-    animationRotationError: .5
-    animationPositionError: .5
-    animationScaleError: .5
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
     animationWrapMode: 0
     extraExposedTransformPaths: []
+    extraUserProperties: []
     clipAnimations: []
     isReadable: 1
   meshes:
     lODScreenPercentages: []
-    globalScale: .00999999978
+    globalScale: 0.01
     meshCompression: 0
     addColliders: 1
+    importVisibility: 0
     importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
     swapUVChannels: 0
     generateSecondaryUV: 0
     useFileUnits: 1
     optimizeMeshForGPU: 1
     keepQuads: 0
     weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
     secondaryUVPackMargin: 4
     useFileScale: 0
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
   tangentSpace:
     normalSmoothAngle: 60
-    splitTangentsAcrossUV: 1
     normalImportMode: 0
-    tangentImportMode: 1
+    tangentImportMode: 4
+    normalCalculationMode: 0
   importAnimation: 1
   copyAvatar: 0
   humanDescription:
+    serializedVersion: 2
     human: []
     skeleton: []
-    armTwist: .5
-    foreArmTwist: .5
-    upperLegTwist: .5
-    legTwist: .5
-    armStretch: .0500000007
-    legStretch: .0500000007
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
     feetSpacing: 0
     rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
   lastHumanDescriptionAvatarSource: {instanceID: 0}
   animationType: 1
+  humanoidOversampling: 1
   additionalBone: 0
   userData: 
   assetBundleName: 

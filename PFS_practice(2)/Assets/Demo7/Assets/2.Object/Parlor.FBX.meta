@@ -1,8 +1,178 @@
 fileFormatVersion: 2
 guid: d66598bf8f2314146b460a4c71028594
 ModelImporter:
-  serializedVersion: 18
+  serializedVersion: 23
   fileIDToRecycleName:
+    100000: Apple Laptop
+    100002: Armchair
+    100004: Armchair02
+    100006: Bookcase
+    100008: Clock
+    100010: Coffee table
+    100012: Fireplace
+    100014: Living room lights
+    100016: lLiving room desk set
+    100018: lLiving room desk set 1
+    100020: lLiving room desk set02
+    100022: lLiving room desk set03
+    100024: lLiving room desk set04
+    100026: mov
+    100028: Parlor
+    100030: //RootNode
+    100032: Particle View01
+    100034: Pillow
+    100036: Pillow02
+    100038: Pillow03
+    100040: Pillow04
+    100042: Pillow05
+    100044: Pillow06
+    100046: Pillow07
+    100048: Pillow08
+    100050: Pillow09
+    100052: Pillow10
+    100054: Pillow11
+    100056: Pillow12
+    100058: Remote Control
+    100060: Shoe rack
+    100062: Sony TV audio portfolio
+    100064: Sony TV audio portfolio_1
+    100066: Sony TV audio portfolio_2
+    100068: Sony TV audio portfolio_2-1
+    100070: Sony TV audio portfolio_3
+    100072: Sony TV audio portfolio_3-1
+    100074: Sony TV audio portfolio_4
+    100076: Sony TV audio portfolio_5
+    100078: Sony TV audio portfolio_6
+    100080: Tea table
+    100082: Three Sofa
+    100084: Three Sofa02
+    100086: Wine cooler
+    100088: Wine cooler02
+    400000: Apple Laptop
+    400002: Armchair
+    400004: Armchair02
+    400006: Bookcase
+    400008: Clock
+    400010: Coffee table
+    400012: Fireplace
+    400014: Living room lights
+    400016: lLiving room desk set
+    400018: lLiving room desk set 1
+    400020: lLiving room desk set02
+    400022: lLiving room desk set03
+    400024: lLiving room desk set04
+    400026: mov
+    400028: //RootNode
+    400030: Parlor
+    400032: Particle View01
+    400034: Pillow
+    400036: Pillow02
+    400038: Pillow03
+    400040: Pillow04
+    400042: Pillow05
+    400044: Pillow06
+    400046: Pillow07
+    400048: Pillow08
+    400050: Pillow09
+    400052: Pillow10
+    400054: Pillow11
+    400056: Pillow12
+    400058: Remote Control
+    400060: Shoe rack
+    400062: Sony TV audio portfolio
+    400064: Sony TV audio portfolio_1
+    400066: Sony TV audio portfolio_2
+    400068: Sony TV audio portfolio_2-1
+    400070: Sony TV audio portfolio_3
+    400072: Sony TV audio portfolio_3-1
+    400074: Sony TV audio portfolio_4
+    400076: Sony TV audio portfolio_5
+    400078: Sony TV audio portfolio_6
+    400080: Tea table
+    400082: Three Sofa
+    400084: Three Sofa02
+    400086: Wine cooler
+    400088: Wine cooler02
+    2300000: Apple Laptop
+    2300002: Armchair
+    2300004: Armchair02
+    2300006: Bookcase
+    2300008: Clock
+    2300010: Coffee table
+    2300012: Fireplace
+    2300014: Living room lights
+    2300016: lLiving room desk set 1
+    2300018: lLiving room desk set02
+    2300020: lLiving room desk set03
+    2300022: lLiving room desk set04
+    2300024: mov
+    2300026: Pillow
+    2300028: Pillow02
+    2300030: Pillow03
+    2300032: Pillow04
+    2300034: Pillow05
+    2300036: Pillow06
+    2300038: Pillow07
+    2300040: Pillow08
+    2300042: Pillow09
+    2300044: Pillow10
+    2300046: Pillow11
+    2300048: Pillow12
+    2300050: Remote Control
+    2300052: Shoe rack
+    2300054: Sony TV audio portfolio_1
+    2300056: Sony TV audio portfolio_2
+    2300058: Sony TV audio portfolio_2-1
+    2300060: Sony TV audio portfolio_3
+    2300062: Sony TV audio portfolio_3-1
+    2300064: Sony TV audio portfolio_4
+    2300066: Sony TV audio portfolio_5
+    2300068: Sony TV audio portfolio_6
+    2300070: Tea table
+    2300072: Three Sofa
+    2300074: Three Sofa02
+    2300076: Wine cooler
+    2300078: Wine cooler02
+    3300000: Apple Laptop
+    3300002: Armchair
+    3300004: Armchair02
+    3300006: Bookcase
+    3300008: Clock
+    3300010: Coffee table
+    3300012: Fireplace
+    3300014: Living room lights
+    3300016: lLiving room desk set 1
+    3300018: lLiving room desk set02
+    3300020: lLiving room desk set03
+    3300022: lLiving room desk set04
+    3300024: mov
+    3300026: Pillow
+    3300028: Pillow02
+    3300030: Pillow03
+    3300032: Pillow04
+    3300034: Pillow05
+    3300036: Pillow06
+    3300038: Pillow07
+    3300040: Pillow08
+    3300042: Pillow09
+    3300044: Pillow10
+    3300046: Pillow11
+    3300048: Pillow12
+    3300050: Remote Control
+    3300052: Shoe rack
+    3300054: Sony TV audio portfolio_1
+    3300056: Sony TV audio portfolio_2
+    3300058: Sony TV audio portfolio_2-1
+    3300060: Sony TV audio portfolio_3
+    3300062: Sony TV audio portfolio_3-1
+    3300064: Sony TV audio portfolio_4
+    3300066: Sony TV audio portfolio_5
+    3300068: Sony TV audio portfolio_6
+    3300070: Tea table
+    3300072: Three Sofa
+    3300074: Three Sofa02
+    3300076: Wine cooler
+    3300078: Wine cooler02
     4300000: Three Sofa
     4300002: Pillow03
     4300004: Pillow05
@@ -48,60 +218,332 @@ ModelImporter:
     4300084: Sony TV audio portfolio_007
     4300086: Sony TV
     4300088: mov
+    6400000: Apple Laptop
+    6400002: Armchair
+    6400004: Armchair02
+    6400006: Bookcase
+    6400008: Clock
+    6400010: Coffee table
+    6400012: Fireplace
+    6400014: Living room lights
+    6400016: lLiving room desk set 1
+    6400018: lLiving room desk set02
+    6400020: lLiving room desk set03
+    6400022: lLiving room desk set04
+    6400024: mov
+    6400026: Pillow
+    6400028: Pillow02
+    6400030: Pillow03
+    6400032: Pillow04
+    6400034: Pillow05
+    6400036: Pillow06
+    6400038: Pillow07
+    6400040: Pillow08
+    6400042: Pillow09
+    6400044: Pillow10
+    6400046: Pillow11
+    6400048: Pillow12
+    6400050: Remote Control
+    6400052: Shoe rack
+    6400054: Sony TV audio portfolio_1
+    6400056: Sony TV audio portfolio_2
+    6400058: Sony TV audio portfolio_2-1
+    6400060: Sony TV audio portfolio_3
+    6400062: Sony TV audio portfolio_3-1
+    6400064: Sony TV audio portfolio_4
+    6400066: Sony TV audio portfolio_5
+    6400068: Sony TV audio portfolio_6
+    6400070: Tea table
+    6400072: Three Sofa
+    6400074: Three Sofa02
+    6400076: Wine cooler
+    6400078: Wine cooler02
+    7400000: Take 001
+    11100000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Apple Laptop
+    second: {fileID: 2100000, guid: 6f1389a39bbe94d4aaaf5457cb03e4d4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bookcase(Bookcase01)
+    second: {fileID: 2100000, guid: 40af25ae148a08345ae65063e221da7b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bookcase(Bookcase02)
+    second: {fileID: 2100000, guid: b9fb1483a65298b4c9c953e4984f4d82, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bookcase(Pattern)
+    second: {fileID: 2100000, guid: 8d5935b05c2fb8146aaf6d1a08842502, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bookcase(White)
+    second: {fileID: 2100000, guid: 09831999537a8a040a33cbb328de74f5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bookcase(Wood07)
+    second: {fileID: 2100000, guid: 01d97d9cb25b4cc47a8cf51dfaa97beb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bookcase_(White)
+    second: {fileID: 2100000, guid: baa0baaa913fcb4449e38ee6d06ef8d4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Clock(Clock)
+    second: {fileID: 2100000, guid: 33f06532b5648934c84e9a6eccfe60f3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Coffee table(Wood03)
+    second: {fileID: 2100000, guid: fa90edb6a2eb67240accc3ec30e1dc9f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fireplace(Fireplace)
+    second: {fileID: 2100000, guid: d58c1a71fb16d88419080c1f592a55a9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Living room lights01
+    second: {fileID: 2100000, guid: a023a5ead8d50bd40a41c41093a5683f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Living room lights02
+    second: {fileID: 2100000, guid: e1eef10cc79f6cd46b922d3d35cc595f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Remote Control(Remote Control)
+    second: {fileID: 2100000, guid: da9225c4e92854f479efa4ab10d75278, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sofa combination(Fabric01)
+    second: {fileID: 2100000, guid: d7662d89ca584794880d4128d002fb9c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sofa combination(Fabric03)
+    second: {fileID: 2100000, guid: 83cb44cf8cfadaf4aa2b2bcc14d1f012, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sofa combination(Fabric05)
+    second: {fileID: 2100000, guid: e79f84ec0b29d10408060080e0b38f2f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sofa combination(Fabric06)
+    second: {fileID: 2100000, guid: 92fca1c1e9cb4074f8020a5673395c94, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sofa combination(Gold Metal)-(Sofa combination02-n)
+    second: {fileID: 2100000, guid: 61db3f3011fd4e74caebe326ac875479, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sofa combination(Leather)
+    second: {fileID: 2100000, guid: d0c66355eb4d2524783e841dedf7774d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sofa combination(Wood05)
+    second: {fileID: 2100000, guid: 4bfb791fdfad4f441a94a9189c951a04, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sofa combination(Wood08)
+    second: {fileID: 2100000, guid: a2940a695ac48594eb6be1a48e157473, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sofa combination(Wood08)-(Sofa combination01-n)
+    second: {fileID: 2100000, guid: 2ea08e445fb7f2440963d001c2add246, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sony TV audio portfolio(Camera)
+    second: {fileID: 2100000, guid: 0f8d7c9994638164db7172edf141e7b4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sony TV audio portfolio(Sony TV audio portfolio01)
+    second: {fileID: 2100000, guid: d685f6c2f1bf4834fb56a83bc68bff11, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sony TV audio portfolio(Sony TV audio portfolio02)
+    second: {fileID: 2100000, guid: 410da9c25ba01d441acfab12d4d75290, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sony TV audio portfolio(Sony TV audio portfolio06)
+    second: {fileID: 2100000, guid: 819a58a464dfb654abcc102d10e63adc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sony TV audio portfolio(Sony TV audio portfolio09)
+    second: {fileID: 2100000, guid: be31affabd3f60a4c8139ae0bda5ff0b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sony TV audio portfolio(Sony TV audio portfolio11)
+    second: {fileID: 2100000, guid: 89f36750dcc6b204cbc53577ad63f2af, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sony TV audio portfolio(Wood04)
+    second: {fileID: 2100000, guid: 23edb5adf916bb047bb128d0ce93fc5c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sony TV audio portfolio(Wood05)
+    second: {fileID: 2100000, guid: ffa2e7828f9c8e345b1077485ff15703, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sony TV audio portfolio(mov)
+    second: {fileID: 2100000, guid: d45c90f911d790d48b36a4fee4c909f6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wine cooler(Wood06)
+    second: {fileID: 2100000, guid: 2b96641aa4ea0db4e9f7f1ea75c47582, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lLiving room desk set(Book cover01)
+    second: {fileID: 2100000, guid: f3ab19e3bbeff104f933f9e96bd8c60f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lLiving room desk set(Fabric02)
+    second: {fileID: 2100000, guid: 5b90499e0432e71478cc2adf99eb51f8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lLiving room desk set(Fabric04)
+    second: {fileID: 2100000, guid: 254a6d9201f8fd441a96ba808005c921, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lLiving room desk set(Gold Metal)
+    second: {fileID: 2100000, guid: 25a027426cdd8a24cbf813565335d9db, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lLiving room desk set(Side of the book01)
+    second: {fileID: 2100000, guid: 64aba020a98d5384b83116b03e958f1a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lLiving room desk set(The back of the book01)
+    second: {fileID: 2100000, guid: fe56e83954d629d40801b2104b7b59fa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lLiving room desk set(Wood05)
+    second: {fileID: 2100000, guid: 95b1711f42d8bcf4e9f6a05b5637f1f9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lLiving room desk set_(Fabric02)
+    second: {fileID: 2100000, guid: 5b1df8d723dd0fb4cba090b04d73c5f5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lLiving room desk set_(Wood05)
+    second: {fileID: 2100000, guid: 7816aed9afb3fac4ab29628dd52a1ab6, type: 2}
   materials:
     importMaterials: 1
     materialName: 3
     materialSearch: 1
+    materialLocation: 0
   animations:
     legacyGenerateAnimations: 4
     bakeSimulation: 0
+    resampleCurves: 1
     optimizeGameObjects: 0
     motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
     animationCompression: 1
-    animationRotationError: .5
-    animationPositionError: .5
-    animationScaleError: .5
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
     animationWrapMode: 0
     extraExposedTransformPaths: []
+    extraUserProperties: []
     clipAnimations: []
     isReadable: 1
   meshes:
     lODScreenPercentages: []
-    globalScale: .00999999978
+    globalScale: 0.01
     meshCompression: 0
     addColliders: 1
+    importVisibility: 0
     importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
     swapUVChannels: 0
     generateSecondaryUV: 0
     useFileUnits: 1
     optimizeMeshForGPU: 1
     keepQuads: 0
     weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
     secondaryUVPackMargin: 4
     useFileScale: 0
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
   tangentSpace:
     normalSmoothAngle: 60
-    splitTangentsAcrossUV: 1
     normalImportMode: 0
-    tangentImportMode: 1
+    tangentImportMode: 4
+    normalCalculationMode: 0
   importAnimation: 1
   copyAvatar: 0
   humanDescription:
+    serializedVersion: 2
     human: []
     skeleton: []
-    armTwist: .5
-    foreArmTwist: .5
-    upperLegTwist: .5
-    legTwist: .5
-    armStretch: .0500000007
-    legStretch: .0500000007
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
     feetSpacing: 0
     rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
   lastHumanDescriptionAvatarSource: {instanceID: 0}
   animationType: 1
+  humanoidOversampling: 1
   additionalBone: 0
   userData: 
   assetBundleName: 

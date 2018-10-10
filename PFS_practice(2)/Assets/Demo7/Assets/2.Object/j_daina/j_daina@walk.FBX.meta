@@ -1,24 +1,443 @@
 fileFormatVersion: 2
 guid: ea2ecc1c3da06754181212e87436ece6
 ModelImporter:
-  serializedVersion: 18
+  serializedVersion: 23
   fileIDToRecycleName:
+    100000: Bip001
+    100002: Bip01
+    100004: Bip01 Footsteps
+    100006: Bip01 Head
+    100008: Bip01 HeadNub
+    100010: Bip01 L Calf
+    100012: Bip01 L Clavicle
+    100014: Bip01 L Finger0
+    100016: Bip01 L Finger01
+    100018: Bip01 L Finger02
+    100020: Bip01 L Finger0Nub
+    100022: Bip01 L Finger1
+    100024: Bip01 L Finger11
+    100026: Bip01 L Finger12
+    100028: Bip01 L Finger1Nub
+    100030: Bip01 L Finger2
+    100032: Bip01 L Finger21
+    100034: Bip01 L Finger22
+    100036: Bip01 L Finger2Nub
+    100038: Bip01 L Finger3
+    100040: Bip01 L Finger31
+    100042: Bip01 L Finger32
+    100044: Bip01 L Finger3Nub
+    100046: Bip01 L Finger4
+    100048: Bip01 L Finger41
+    100050: Bip01 L Finger42
+    100052: Bip01 L Finger4Nub
+    100054: Bip01 L Foot
+    100056: Bip01 L Forearm
+    100058: Bip01 L Hand
+    100060: Bip01 L Thigh
+    100062: Bip01 L Toe0
+    100064: Bip01 L Toe0Nub
+    100066: Bip01 L UpperArm
+    100068: Bip01 Neck
+    100070: Bip01 Pelvis
+    100072: Bip01 Ponytail1
+    100074: Bip01 Ponytail11
+    100076: Bip01 Ponytail1Nub
+    100078: Bip01 Ponytail2
+    100080: Bip01 Ponytail21
+    100082: Bip01 Ponytail2Nub
+    100084: Bip01 R Calf
+    100086: Bip01 R Clavicle
+    100088: Bip01 R Finger0
+    100090: Bip01 R Finger01
+    100092: Bip01 R Finger02
+    100094: Bip01 R Finger0Nub
+    100096: Bip01 R Finger1
+    100098: Bip01 R Finger11
+    100100: Bip01 R Finger12
+    100102: Bip01 R Finger1Nub
+    100104: Bip01 R Finger2
+    100106: Bip01 R Finger21
+    100108: Bip01 R Finger22
+    100110: Bip01 R Finger2Nub
+    100112: Bip01 R Finger3
+    100114: Bip01 R Finger31
+    100116: Bip01 R Finger32
+    100118: Bip01 R Finger3Nub
+    100120: Bip01 R Finger4
+    100122: Bip01 R Finger41
+    100124: Bip01 R Finger42
+    100126: Bip01 R Finger4Nub
+    100128: Bip01 R Foot
+    100130: Bip01 R Forearm
+    100132: Bip01 R Hand
+    100134: Bip01 R Thigh
+    100136: Bip01 R Toe0
+    100138: Bip01 R Toe0Nub
+    100140: Bip01 R UpperArm
+    100142: Bip01 Spine
+    100144: Bip01 Spine1
+    100146: Bip01 Spine2
+    100148: Bip01 Xtra01
+    100150: Bip01 Xtra0102
+    100152: Bip01 Xtra0103
+    100154: Bip01 Xtra01Nub
+    100156: Bip01 Xtra02
+    100158: Bip01 Xtra0202
+    100160: Bip01 Xtra0203
+    100162: Bip01 Xtra02Nub
+    100164: Bip01 Xtra03
+    100166: Bip01 Xtra0302
+    100168: Bip01 Xtra0303
+    100170: Bip01 Xtra03Nub
+    100172: Bip01 Xtra05
+    100174: Bip01 Xtra0502
+    100176: Bip01 Xtra0503
+    100178: Bip01 Xtra05Nub
+    100180: Bip01 Xtra06
+    100182: Bip01 Xtra0602
+    100184: Bip01 Xtra0603
+    100186: Bip01 Xtra06Nub
+    100188: j_daina@idle
+    100190: //RootNode
+    100192: Particle View 01s
+    100194: Particle View 01s 1
+    100196: Particle View 01s 10
+    100198: Particle View 01s 11
+    100200: Particle View 01s 12
+    100202: Particle View 01s 13
+    100204: Particle View 01s 14
+    100206: Particle View 01s 15
+    100208: Particle View 01s 16
+    100210: Particle View 01s 17
+    100212: Particle View 01s 18
+    100214: Particle View 01s 19
+    100216: Particle View 01s 2
+    100218: Particle View 01s 20
+    100220: Particle View 01s 21
+    100222: Particle View 01s 22
+    100224: Particle View 01s 23
+    100226: Particle View 01s 24
+    100228: Particle View 01s 25
+    100230: Particle View 01s 26
+    100232: Particle View 01s 27
+    100234: Particle View 01s 28
+    100236: Particle View 01s 29
+    100238: Particle View 01s 3
+    100240: Particle View 01s 30
+    100242: Particle View 01s 31
+    100244: Particle View 01s 32
+    100246: Particle View 01s 33
+    100248: Particle View 01s 34
+    100250: Particle View 01s 35
+    100252: Particle View 01s 36
+    100254: Particle View 01s 37
+    100256: Particle View 01s 38
+    100258: Particle View 01s 39
+    100260: Particle View 01s 4
+    100262: Particle View 01s 40
+    100264: Particle View 01s 41
+    100266: Particle View 01s 42
+    100268: Particle View 01s 43
+    100270: Particle View 01s 44
+    100272: Particle View 01s 45
+    100274: Particle View 01s 46
+    100276: Particle View 01s 47
+    100278: Particle View 01s 48
+    100280: Particle View 01s 49
+    100282: Particle View 01s 5
+    100284: Particle View 01s 50
+    100286: Particle View 01s 51
+    100288: Particle View 01s 52
+    100290: Particle View 01s 53
+    100292: Particle View 01s 54
+    100294: Particle View 01s 55
+    100296: Particle View 01s 56
+    100298: Particle View 01s 57
+    100300: Particle View 01s 58
+    100302: Particle View 01s 59
+    100304: Particle View 01s 6
+    100306: Particle View 01s 60
+    100308: Particle View 01s 61
+    100310: Particle View 01s 62
+    100312: Particle View 01s 63
+    100314: Particle View 01s 64
+    100316: Particle View 01s 65
+    100318: Particle View 01s 66
+    100320: Particle View 01s 67
+    100322: Particle View 01s 68
+    100324: Particle View 01s 69
+    100326: Particle View 01s 7
+    100328: Particle View 01s 70
+    100330: Particle View 01s 71
+    100332: Particle View 01s 72
+    100334: Particle View 01s 73
+    100336: Particle View 01s 74
+    100338: Particle View 01s 75
+    100340: Particle View 01s 76
+    100342: Particle View 01s 77
+    100344: Particle View 01s 78
+    100346: Particle View 01s 79
+    100348: Particle View 01s 8
+    100350: Particle View 01s 80
+    100352: Particle View 01s 81
+    100354: Particle View 01s 82
+    100356: Particle View 01s 83
+    100358: Particle View 01s 84
+    100360: Particle View 01s 85
+    100362: Particle View 01s 86
+    100364: Particle View 01s 87
+    100366: Particle View 01s 88
+    100368: Particle View 01s 89
+    100370: Particle View 01s 9
+    100372: Particle View 01s 90
+    100374: Particle View 01s 91
+    100376: Particle View 01s 92
+    100378: Particle View 01s 93
+    100380: Particle View 01s01
+    100382: Particle View 01s02
+    400000: Bip001
+    400002: Bip01
+    400004: Bip01 Footsteps
+    400006: Bip01 Head
+    400008: Bip01 HeadNub
+    400010: Bip01 L Calf
+    400012: Bip01 L Clavicle
+    400014: Bip01 L Finger0
+    400016: Bip01 L Finger01
+    400018: Bip01 L Finger02
+    400020: Bip01 L Finger0Nub
+    400022: Bip01 L Finger1
+    400024: Bip01 L Finger11
+    400026: Bip01 L Finger12
+    400028: Bip01 L Finger1Nub
+    400030: Bip01 L Finger2
+    400032: Bip01 L Finger21
+    400034: Bip01 L Finger22
+    400036: Bip01 L Finger2Nub
+    400038: Bip01 L Finger3
+    400040: Bip01 L Finger31
+    400042: Bip01 L Finger32
+    400044: Bip01 L Finger3Nub
+    400046: Bip01 L Finger4
+    400048: Bip01 L Finger41
+    400050: Bip01 L Finger42
+    400052: Bip01 L Finger4Nub
+    400054: Bip01 L Foot
+    400056: Bip01 L Forearm
+    400058: Bip01 L Hand
+    400060: Bip01 L Thigh
+    400062: Bip01 L Toe0
+    400064: Bip01 L Toe0Nub
+    400066: Bip01 L UpperArm
+    400068: Bip01 Neck
+    400070: Bip01 Pelvis
+    400072: Bip01 Ponytail1
+    400074: Bip01 Ponytail11
+    400076: Bip01 Ponytail1Nub
+    400078: Bip01 Ponytail2
+    400080: Bip01 Ponytail21
+    400082: Bip01 Ponytail2Nub
+    400084: Bip01 R Calf
+    400086: Bip01 R Clavicle
+    400088: Bip01 R Finger0
+    400090: Bip01 R Finger01
+    400092: Bip01 R Finger02
+    400094: Bip01 R Finger0Nub
+    400096: Bip01 R Finger1
+    400098: Bip01 R Finger11
+    400100: Bip01 R Finger12
+    400102: Bip01 R Finger1Nub
+    400104: Bip01 R Finger2
+    400106: Bip01 R Finger21
+    400108: Bip01 R Finger22
+    400110: Bip01 R Finger2Nub
+    400112: Bip01 R Finger3
+    400114: Bip01 R Finger31
+    400116: Bip01 R Finger32
+    400118: Bip01 R Finger3Nub
+    400120: Bip01 R Finger4
+    400122: Bip01 R Finger41
+    400124: Bip01 R Finger42
+    400126: Bip01 R Finger4Nub
+    400128: Bip01 R Foot
+    400130: Bip01 R Forearm
+    400132: Bip01 R Hand
+    400134: Bip01 R Thigh
+    400136: Bip01 R Toe0
+    400138: Bip01 R Toe0Nub
+    400140: Bip01 R UpperArm
+    400142: Bip01 Spine
+    400144: Bip01 Spine1
+    400146: Bip01 Spine2
+    400148: Bip01 Xtra01
+    400150: Bip01 Xtra0102
+    400152: Bip01 Xtra0103
+    400154: Bip01 Xtra01Nub
+    400156: Bip01 Xtra02
+    400158: Bip01 Xtra0202
+    400160: Bip01 Xtra0203
+    400162: Bip01 Xtra02Nub
+    400164: Bip01 Xtra03
+    400166: Bip01 Xtra0302
+    400168: Bip01 Xtra0303
+    400170: Bip01 Xtra03Nub
+    400172: Bip01 Xtra05
+    400174: Bip01 Xtra0502
+    400176: Bip01 Xtra0503
+    400178: Bip01 Xtra05Nub
+    400180: Bip01 Xtra06
+    400182: Bip01 Xtra0602
+    400184: Bip01 Xtra0603
+    400186: Bip01 Xtra06Nub
+    400188: j_daina@idle
+    400190: //RootNode
+    400192: Particle View 01s
+    400194: Particle View 01s 1
+    400196: Particle View 01s 10
+    400198: Particle View 01s 11
+    400200: Particle View 01s 12
+    400202: Particle View 01s 13
+    400204: Particle View 01s 14
+    400206: Particle View 01s 15
+    400208: Particle View 01s 16
+    400210: Particle View 01s 17
+    400212: Particle View 01s 18
+    400214: Particle View 01s 19
+    400216: Particle View 01s 2
+    400218: Particle View 01s 20
+    400220: Particle View 01s 21
+    400222: Particle View 01s 22
+    400224: Particle View 01s 23
+    400226: Particle View 01s 24
+    400228: Particle View 01s 25
+    400230: Particle View 01s 26
+    400232: Particle View 01s 27
+    400234: Particle View 01s 28
+    400236: Particle View 01s 29
+    400238: Particle View 01s 3
+    400240: Particle View 01s 30
+    400242: Particle View 01s 31
+    400244: Particle View 01s 32
+    400246: Particle View 01s 33
+    400248: Particle View 01s 34
+    400250: Particle View 01s 35
+    400252: Particle View 01s 36
+    400254: Particle View 01s 37
+    400256: Particle View 01s 38
+    400258: Particle View 01s 39
+    400260: Particle View 01s 4
+    400262: Particle View 01s 40
+    400264: Particle View 01s 41
+    400266: Particle View 01s 42
+    400268: Particle View 01s 43
+    400270: Particle View 01s 44
+    400272: Particle View 01s 45
+    400274: Particle View 01s 46
+    400276: Particle View 01s 47
+    400278: Particle View 01s 48
+    400280: Particle View 01s 49
+    400282: Particle View 01s 5
+    400284: Particle View 01s 50
+    400286: Particle View 01s 51
+    400288: Particle View 01s 52
+    400290: Particle View 01s 53
+    400292: Particle View 01s 54
+    400294: Particle View 01s 55
+    400296: Particle View 01s 56
+    400298: Particle View 01s 57
+    400300: Particle View 01s 58
+    400302: Particle View 01s 59
+    400304: Particle View 01s 6
+    400306: Particle View 01s 60
+    400308: Particle View 01s 61
+    400310: Particle View 01s 62
+    400312: Particle View 01s 63
+    400314: Particle View 01s 64
+    400316: Particle View 01s 65
+    400318: Particle View 01s 66
+    400320: Particle View 01s 67
+    400322: Particle View 01s 68
+    400324: Particle View 01s 69
+    400326: Particle View 01s 7
+    400328: Particle View 01s 70
+    400330: Particle View 01s 71
+    400332: Particle View 01s 72
+    400334: Particle View 01s 73
+    400336: Particle View 01s 74
+    400338: Particle View 01s 75
+    400340: Particle View 01s 76
+    400342: Particle View 01s 77
+    400344: Particle View 01s 78
+    400346: Particle View 01s 79
+    400348: Particle View 01s 8
+    400350: Particle View 01s 80
+    400352: Particle View 01s 81
+    400354: Particle View 01s 82
+    400356: Particle View 01s 83
+    400358: Particle View 01s 84
+    400360: Particle View 01s 85
+    400362: Particle View 01s 86
+    400364: Particle View 01s 87
+    400366: Particle View 01s 88
+    400368: Particle View 01s 89
+    400370: Particle View 01s 9
+    400372: Particle View 01s 90
+    400374: Particle View 01s 91
+    400376: Particle View 01s 92
+    400378: Particle View 01s 93
+    400380: Particle View 01s01
+    400382: Particle View 01s02
     4300000: j_daina@idle
+    7400000: walk
+    11100000: //RootNode
+    13700000: j_daina@idle
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 13 - Default1
+    second: {fileID: 2100000, guid: 3830a4d418dbbe34ab68727ab9205575, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #27'
+    second: {fileID: 2100000, guid: 26532859cc0525e4aad46620f8e39a74, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #29'
+    second: {fileID: 2100000, guid: 98b3d76e0f443b747840538fe9e864b3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #30'
+    second: {fileID: 2100000, guid: a158611338ed7d9439d34bcd6eb11dd4, type: 2}
   materials:
     importMaterials: 1
     materialName: 3
     materialSearch: 1
+    materialLocation: 0
   animations:
     legacyGenerateAnimations: 4
     bakeSimulation: 0
+    resampleCurves: 1
     optimizeGameObjects: 0
     motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
     animationCompression: 1
-    animationRotationError: .5
-    animationPositionError: .5
-    animationScaleError: .5
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
     animationWrapMode: 2
     extraExposedTransformPaths: []
+    extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
       name: walk
@@ -30,6 +449,7 @@ ModelImporter:
       level: 0
       cycleOffset: 0
       loop: 0
+      hasAdditiveReferencePose: 0
       loopTime: 0
       loopBlend: 0
       loopBlendOrientation: 0
@@ -46,44 +466,58 @@ ModelImporter:
       transformMask: []
       maskType: 0
       maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
     isReadable: 1
   meshes:
     lODScreenPercentages: []
-    globalScale: .00999999978
+    globalScale: 0.01
     meshCompression: 0
     addColliders: 0
+    importVisibility: 0
     importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
     swapUVChannels: 1
     generateSecondaryUV: 0
     useFileUnits: 1
     optimizeMeshForGPU: 1
     keepQuads: 0
     weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
     secondaryUVPackMargin: 4
     useFileScale: 0
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
   tangentSpace:
     normalSmoothAngle: 60
-    splitTangentsAcrossUV: 1
     normalImportMode: 0
-    tangentImportMode: 1
+    tangentImportMode: 4
+    normalCalculationMode: 0
   importAnimation: 1
   copyAvatar: 0
   humanDescription:
+    serializedVersion: 2
     human: []
     skeleton: []
-    armTwist: .5
-    foreArmTwist: .5
-    upperLegTwist: .5
-    legTwist: .5
-    armStretch: .0500000007
-    legStretch: .0500000007
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
     feetSpacing: 0
     rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
   lastHumanDescriptionAvatarSource: {instanceID: 0}
   animationType: 1
+  humanoidOversampling: 1
   additionalBone: 0
   userData: 
   assetBundleName: 
